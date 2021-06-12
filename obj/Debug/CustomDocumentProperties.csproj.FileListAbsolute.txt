@@ -1,0 +1,6 @@
+R:\rad2d\bin\CustomDocumentProperties.dll
+R:\rad2d\bin\CustomDocumentProperties.pdb
+L:\SP2D Components\Utilities\CustomDocProperties\obj\Debug\CustomDocumentProperties.csproj.CoreCompileInputs.cache
+L:\SP2D Components\Utilities\CustomDocProperties\obj\Debug\CustomDocumentProperties.dll
+L:\SP2D Components\Utilities\CustomDocProperties\obj\Debug\CustomDocumentProperties.pdb
+L:\SP2D Components\Utilities\CustomDocProperties\obj\Debug\CustomDocumentProperties.csprojAssemblyReference.cache
